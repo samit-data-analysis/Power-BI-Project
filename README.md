@@ -1,6 +1,7 @@
-The Project is Mainly Bulding to Understand The Total Data Professional Present in Worldwide
+![Data Professional Survey Breakdown Dashboard](https://github.com/samit-data-analysis/Power-BI-Project/blob/main/power_bi.pdf)
+#The Project is Mainly Bulding to Understand The Total Data Professional Present in Worldwide
 
-Some Of The Most Important Insights Which I Found by The Project Using Power BI Dashboard Creation.
+##Some Of The Most Important Insights Which I Found by The Project Using Power BI Dashboard Creation.
 
 1. Created Dasboard For Visualization of the Dataset and Connected to the Dataset for Visualization.
 
