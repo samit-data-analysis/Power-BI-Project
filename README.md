@@ -16,10 +16,5 @@
 
 6. Created Clusterd bar Chart to Calculate Average Salary of each Data Professional Working in different Different data field
 
-   We got the above results why running the SQL query :
 
-```
-Select *
-From Table
-Order by ID
-```
+
