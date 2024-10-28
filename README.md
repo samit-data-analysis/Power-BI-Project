@@ -10,7 +10,7 @@
 
 3. Sorting the Dataset and Creating the New Columes And Removing unwanted Columns.
 
-4. Catagorizing the Data Professional(Data Scientist, Data Engineer, Data Architect, Data Analyst, DataBase Developer) Using the if Function and Makinig them standdizing formate to get easily Visualization.
+4. Catagorizing the Data Professional(Data Scientist, Data Engineer, Data Architect, Data Analyst, DataBase Developer) Using the if Function and Makinig them standdizing format to get easily Visualization.
 
 5. Creating Gauges for Quickly Summarize of Happiness With Work/Life Balance & Happiness With salary.
 
